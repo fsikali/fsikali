@@ -1,5 +1,5 @@
 ## Hi there 👋
-- My name is Flemming Sikali, I am a Software Developer
+My name is Flemming Sikali, I am a Software Developer
 
 <!--
 **fsikali/fsikali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
