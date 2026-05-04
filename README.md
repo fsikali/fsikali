@@ -1,17 +1,13 @@
-## Hi there 👋
-My name is Flemming Sikali, I am a Software Engineer
+# Hi there 👋
 
-<!--
-**fsikali/fsikali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Flemming Sikali, a Software Engineer passionate about building scalable, efficient, and user-focused digital solutions.
 
-Here are some ideas to get you started:
+I enjoy working across the full development lifecycle—from designing clean architectures to implementing performant systems and intuitive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Build modern web applications
+- Design scalable backend systems
+- Focus on performance, clean code, and user experience
+
+## Goals
+Continuously improve my skills, contribute to impactful projects, and develop solutions that solve real-world problems.
