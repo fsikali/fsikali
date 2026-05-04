@@ -1,7 +1,6 @@
 # Hi, I'm Flemming Sikali 👋
 
 Software Engineer focused on building scalable backend systems and modern web applications with strong emphasis on performance, clean architecture, and real-world impact.
-
 I design and build systems that turn data into meaningful insights and scalable digital products.
 
 ---
@@ -16,7 +15,7 @@ I design and build systems that turn data into meaningful insights and scalable 
 
 ---
 
-## 🧠 Engineering Philosophy
+## 💼 Approach
 
 I focus on building systems that are:
 - Scalable by design
@@ -28,14 +27,11 @@ I focus on building systems that are:
 
 ## ⚙️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -52,11 +48,3 @@ WebSocket-based messaging system enabling real-time communication with scalable 
 
 ### 🔹 Skincare E-commerce Store (Fle-Beauty)
 Full-stack e-commerce platform focused on skincare products with clean UI and scalable backend structure.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsikali&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsikali&layout=compact&theme=tokyonight)
