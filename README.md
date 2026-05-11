@@ -46,5 +46,5 @@ Lightweight backend framework built for understanding routing, architecture, and
 ### 🔹 Real-Time Chat App
 WebSocket-based messaging system enabling real-time communication with scalable backend design.
 
-### 🔹 Skincare E-commerce Store (Fle-Beauty)
+### 🔹 Skincare E-commerce Store
 Full-stack e-commerce platform focused on skincare products with clean UI and scalable backend structure.
